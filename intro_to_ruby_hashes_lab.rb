@@ -33,9 +33,6 @@ def monopoly_with_third_tier
     :name_two=> "Taylor",
     :name_three=> "Sierra",
     :name_four=> "Amon-Ra"
-    
-      
-    }
     }
   } 
     
