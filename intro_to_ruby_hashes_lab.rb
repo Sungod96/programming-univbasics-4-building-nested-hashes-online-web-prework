@@ -29,9 +29,9 @@ def monopoly_with_third_tier
       :fourth_piece=> 7
     }
     :names=> {
-    :name_one=> "Chris"
-    :name_two=> "Taylor"
-    :name_three => "Sierra"
+    :name_one=> "Chris",
+    :name_two=> "Taylor",
+    :name_three => "Sierra",
     :name_four => "Amon-Ra"
     
       
