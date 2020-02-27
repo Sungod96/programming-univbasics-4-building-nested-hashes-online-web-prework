@@ -28,6 +28,15 @@ def monopoly_with_third_tier
       :third_piece=> 6,
       :fourth_piece=> 7
     }
+    :names=> {
+    :name_one=> "Chris"
+    :name_two=> "Taylor"
+    :name_three => "Sierra"
+    :name_four => "Amon-Ra"
+    
+      
+    }
+    }
   } 
     
   }
