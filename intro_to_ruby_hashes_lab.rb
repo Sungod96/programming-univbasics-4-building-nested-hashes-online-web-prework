@@ -57,6 +57,8 @@ def monopoly_with_fourth_tier
     :shortline_railroad=> {}
     }
   } 
+  monopoly_with_fourth_tier[:railroads][:names][:reading_railroad]["mortgage_value"]= "100"
+  return monopoly_with_fourth_tier
     
   }
 end
