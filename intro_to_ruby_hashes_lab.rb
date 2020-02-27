@@ -27,7 +27,7 @@ def monopoly_with_third_tier
   } 
     
   }
-  hash[:railroads] => :pieces
+[:railroads] => :pieces
   return hash 
 end
 
