@@ -25,7 +25,7 @@ def monopoly_with_third_tier
   hash = {
   :railroads => {
   } 
-    
+  }  
 end
 
 def monopoly_with_fourth_tier
