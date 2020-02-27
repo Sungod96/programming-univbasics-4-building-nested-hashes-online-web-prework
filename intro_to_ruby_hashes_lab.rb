@@ -25,7 +25,7 @@ def monopoly_with_third_tier
     :rent_in_dollars=> {
       :one_piece=> 4,
       :two_piece=> 5,
-      :third_piece=>, 6
+      :third_piece=> 6,
       :fourth_piece=> 7
     }
   } 
