@@ -29,7 +29,7 @@ def monopoly_with_third_tier
       :four_pieces_owned=> 200
     },
     :names=> {
-    :name_one=> "Chris",
+    :reading_railroad=> {},
     :name_two=> "Taylor",
     :name_three=> "Sierra",
     :name_four=> "Amon-Ra"
